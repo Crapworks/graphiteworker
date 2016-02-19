@@ -1,0 +1,9 @@
+{
+    "gearman_job_servers": [ "gearman.example.com" ],
+    "gearman_key": "secret_password",
+    "client_id": "graphite_perfdata_worker",
+    "graphite_host": "graphite.example.com",
+    "graphite_port": 2014,
+    "graphite_protocol": "pickle",
+    "pool_size": 10
+}

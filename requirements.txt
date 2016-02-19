@@ -1,0 +1,6 @@
+argparse>=1.2.1
+gearman>=2.0.2
+nose>=1.2.1
+nosexcover>=1.0.7
+python-daemon>=1.5
+stdeb>=0.6.0

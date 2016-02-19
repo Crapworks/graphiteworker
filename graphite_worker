@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+
+###################################################################
+#
+# Author: Christian Eichelmann
+# E-Mail: christian.eichelmann@1und1.de
+#
+###################################################################
+
+import sys
+
+from graphiteworker import graphite_worker
+
+if __name__ == '__main__':
+    graphite_worker.main(sys.argv[1:])
